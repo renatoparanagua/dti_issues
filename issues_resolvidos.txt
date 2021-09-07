@@ -1,0 +1,10 @@
+Problema com globalThis
+	Install globalthis:
+		> npm install globalthis
+
+	Add:
+		> import 'globalthis/auto';
+		in polyfills.ts
+	
+	LINK
+		https://forum.ionicframework.com/t/referenceerror-globalthis-is-not-defined/201520/2
